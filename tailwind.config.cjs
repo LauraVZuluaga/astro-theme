@@ -15,7 +15,7 @@ module.exports = {
       inherit: colors.inherit,
       current: colors.current,
       transparent: colors.transparent,
-      primary: "#9333EA",
+      primary: "#FF5A5F",
       secondary: "#ff7e33",
       info: "#0C63E7",
       black: colors.black,
@@ -376,8 +376,9 @@ module.exports = {
         '"Segoe UI Emoji"',
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
+        'Quicksand'
       ],
-      serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif', 'sans-serif'],
       mono: [
         'ui-monospace',
         'SFMono-Regular',
